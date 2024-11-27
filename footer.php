@@ -28,7 +28,7 @@
       <div class="box">
          <h3>Follow Us</h3>
          <a href="https://x.com/khaiaimn" target="_blank"><i class="fab fa-twitter"></i>Twitter</a>
-         <a href="https://www.instagram.com/harshchy__/" target="_blank"><i class="fab fa-instagram"></i>Instagram</a>
+         <a href="https://www.instagram.com/khairulaimnn" target="_blank"><i class="fab fa-instagram"></i>Instagram</a>
          </i></div>
 
    </section>
